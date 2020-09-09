@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToastPing</string>
+    <string name="PingText">PING</string>
+</resources>
